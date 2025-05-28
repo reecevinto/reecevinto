@@ -1,4 +1,4 @@
--🔥 Hi, I am Collins Kipkemboi Murgor (Check me out on X (Twitter): @FutureCollins1)
+-🔥 Hi, I am Collins Kipkemboi Murgor (Check me out on <a href="https://x.com/FutureCollins1"><ins>X (Twitter): @FutureCollins1</ins></a>)
 
 -✨ I’m interested in building Software Engineering projects, Open Source, and being a Google Developer Expert.
 
