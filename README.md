@@ -1,8 +1,9 @@
-- 👋 Hi, I’m collins
-- 👀 I’m interested in machine learning with Python, Cryptography, Data Science and Cyber Security
-- 🌱 I’m currently learning machine learning with Python And Artificial Neural Networks
-- 💞️ I’m looking to collaborate on Data Science, DeepLearning,AI,Web Developments Projects, django applications,Cyber Security and all TECH 
-- 📫 How to reach me https://www.linked.com/in/collins-murgor-80694b181     murgorcollins702@gmail.com
+🔥 Hi, I am Collins Kipkemboi Murgor (Check me out on X (Twitter): @FutureCollins1)
+✨ I’m interested in building Software Engineering projects, Open Source, and being a Google Developer Expert.
+👨‍💻 I am an ALX Certified Solution Architect and Certified Cloud Practictioner (Via the Cloud Computing Program)
+🌟 I'm a Face of ALX SE.
+✍ I am a Technical Writer.
+👨‍💻 I am looking to collaborate on and build ground-breaking projects.
      
 
 <!---
