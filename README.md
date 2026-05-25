@@ -37,8 +37,7 @@ Check me out on <a href="https://x.com/FutureCollins1"><ins>X (Twitter): @Future
 <h3 align="center">💼 Professional Foundations Certificate</h3>
 
 <p align="center">
-<img src="<img width="1280" height="720" alt="89-professional-foundations-certificate-collins-murgor" src="https://github.com/user-attachments/assets/974b9f96-7567-40ba-9a3c-0fa02556b8f7" />
-" width="800"/>
+<img src="<img width="1280" height="720" alt="89-professional-foundations-certificate-collins-murgor" src="https://github.com/user-attachments/assets/974b9f96-7567-40ba-9a3c-0fa02556b8f7" width="800"/>
 </p>
 
 ---
@@ -46,8 +45,7 @@ Check me out on <a href="https://x.com/FutureCollins1"><ins>X (Twitter): @Future
 <h3 align="center">🛡️ Cybersecurity Certificate</h3>
 
 <p align="center">
-<img src="<img width="1280" height="720" alt="159-cybersecurity-certificate-collins-murgor" src="https://github.com/user-attachments/assets/2f780b6a-3040-425d-9808-5aec62e6dc88" />
-" width="800"/>
+<img src="<img width="1280" height="720" alt="159-cybersecurity-certificate-collins-murgor" src="https://github.com/user-attachments/assets/2f780b6a-3040-425d-9808-5aec62e6dc88" width="800"/>
 </p>
 
 ---
